@@ -15,10 +15,13 @@
 - Data Structures & Algorithms
 - Competitive programming
 
-🌱 Currently Learning:
-- Advanced DSA & Algorithms
-- Android App Development
-- System Design & Clean Code
+<h3>🌱 Currently Learning</h3>
+<ul>
+  <li>🚀 Advanced Data Structures & Algorithms</li>
+  <li>🌐 MERN Stack Development</li>
+  <li>🧠 System Design & Writing Clean Code</li>
+  <li>💻 C# for Object-Oriented Programming</li>
+</ul>
 
 📫 Reach me at: **noornabinoor1770@gmail.com**
 
