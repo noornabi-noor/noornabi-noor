@@ -10,7 +10,7 @@
 🎓 I'm a Computer Science & Engineering student at **Jatiya Kabi Kazi Nazrul Islam University**, deeply passionate about building impactful software and learning cutting-edge technologies.
 
 💻 I love exploring:
-- Full-stack web development (MERN Stack)
+- Full-stack web development 
 - Android app development
 - Data Structures & Algorithms
 - Competitive programming
@@ -18,7 +18,7 @@
 <h3>🌱 Currently Learning</h3>
 <ul>
   <li>🚀 Advanced Data Structures & Algorithms</li>
-  <li>🌐 MERN Stack Development</li>
+  <li>🌐 Full Stack Development</li>
   <li>🧠 System Design & Writing Clean Code</li>
   <li>💻 C# for Object-Oriented Programming</li>
 </ul>
